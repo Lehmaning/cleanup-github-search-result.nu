@@ -3,6 +3,7 @@
 ! Expires: 30 days (update frequency)
 github.com#?#div[data-testid='results-list']>:-abp-has(a[class^='Link']>.search-match:-abp-contains(zpc1314521))
 github.com#?#div[data-testid='results-list']>:-abp-has(a[class^='Link']>.search-match:-abp-contains(panbinibn))
+github.com#?#div[data-testid='results-list']>:-abp-has(a[class^='Link']>.search-match:-abp-contains(cirosantilli))
 github.com#?#div[data-testid='results-list']>:-abp-has(a[class^='Link']>.search-match:-abp-contains(wumaoland))
 github.com#?#div[data-testid='results-list']>:-abp-has(a[class^='Link']>.search-match:-abp-contains(codin-stuffs))
 github.com#?#div[data-testid='results-list']>:-abp-has(a[class^='Link']>.search-match:-abp-contains(cheezcharmer))
